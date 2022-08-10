@@ -1,5 +1,5 @@
 # lessonsBelhardCsharp
 
 hello!
-![image](\screenshot.jpg)
+![image](main\screenshot.jpg)
 
