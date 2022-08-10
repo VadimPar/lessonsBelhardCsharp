@@ -1,5 +1,5 @@
 # lessonsBelhardCsharp
 
 hello!
-![image](main\screenshot.jpg)
+![image](https://github.com/VadimPar/lessonsBelhardCsharp/blob/main/screenshot.jpg)
 
